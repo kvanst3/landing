@@ -1,0 +1,11 @@
+.container{
+
+  width: 800px;
+  overflow: hidden;
+  /*justify-content: center;*/
+  margin: 0 auto;
+}
+
+.text-center{
+  text-align: center;
+}

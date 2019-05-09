@@ -1,0 +1,21 @@
+.footer{
+  /*justify-content: center;*/
+   /*margin: 0 auto;*/
+  text-align: center;
+  padding: 60px;
+  background-color: #2C2B2B
+}
+
+.footer i{
+  font-size: 30px;
+  color: #6AD58B;
+}
+
+#heart{
+  color: #BF0F12;
+  font-size: 20px;
+}
+
+.footer p{
+  color: rgb(150, 150, 150);
+}

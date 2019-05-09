@@ -1,0 +1,17 @@
+/*.banner h1{
+  text-align: center;
+}
+*/
+
+.banner{
+  /*background-image: url('images/background.png');*/
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 200px;
+}
+
+.banner p{
+  color: rgb(220, 220, 220);
+}
+
